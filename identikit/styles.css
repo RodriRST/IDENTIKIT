@@ -1,0 +1,136 @@
+
+body {
+    background-image:url(gif\ artist\ perfect\ loop\ GIF\ by\ Erica\ Anderson.gif);
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+  .menu {
+    list-style: none;
+    padding: 0;
+    background: #9D0BE6;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+  }
+  .menu li{
+    display: inline-block;
+    text-align: center;
+  }
+  .menu li a:hover{
+    background: #865CE1 ;
+  }
+  .tituloinicio{
+    background-color: #9D0BE6;
+    color: white;
+    text-align: center;
+    height: 45px;
+    margin: 0%;
+    padding: 0%;
+  }
+  .descripcionincio{
+    background-color: #9D0BE6;
+    width: 60%;
+    color: white;
+    text-align: center;
+    height: 45px;
+    margin: auto;
+    padding: 0;
+    margin-bottom: 70px;
+  }
+  .descripcionincio2{
+    background-color: #9D0BE6;
+    width: 30%;
+    color: white;
+    text-align: center;
+    height: 45px;
+    margin: auto;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .paginasinicio{
+    height: 50px;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+  }
+    .tabla{
+    border: 1px;
+    background-color: #B035E6;
+  }
+  .titulotabla{
+    background-color: #B035E6;
+    margin: 0;
+    padding: 0%;
+    height: 60px;
+
+  }
+  .barrasection{
+    background-color: #B035E6;display: flex; width: 80%; height: 800px; flex: 1; justify-content:center ; align-items: center
+  }
+  .barraaside{text-align: center; display: inline-block; width: 20%; height: 800px; background-color: #D738E6 ;}
+  .barraaside li{
+      list-style: none;
+      margin: 20px;
+      font-size: 30px;
+
+  }
+  .barraaside a{
+      text-decoration: none;
+      padding: 30px;
+  
+  }
+  .barrafooter{ background-color: blueviolet; height: 100px;}
+  
+  
+
+  
+  .titulojuego{
+    text-align: center;
+    background: #9D0BE6;
+    color: white;
+
+  }
+  #iniciarjuego{
+    color: white;
+    text-decoration: none;
+  }
+.itemoculto1{
+    width: 50px;
+    position:absolute;
+    top: 700px;
+    right: 200px;
+}
+.itemoculto2{
+    width: 25px;
+    position: absolute;
+    top: 948px;
+    left: 40px;
+
+
+}
+.itemoculto3{
+    width: 25px;
+    position: absolute;
+    top: 343px;
+    right: 456px;
+}
+.itemoculto4{
+    width: 15px;
+    position: absolute;
+    top: 333px;
+    left: 282px;
+}
